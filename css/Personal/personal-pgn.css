@@ -28,7 +28,7 @@ p{
 }
 
 .personal-title{
-
+    padding-top:20px;
     font-weight: 800;
     font-size: 40px;
     text-align: center;
@@ -71,7 +71,8 @@ p{
     }
     
     .personal-title{
-    
+        
+        padding-top:15px;
         font-weight: 800;
         font-size: 40px;
         text-align: center;
